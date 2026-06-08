@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite the associated manuscript."
+title: "Reinforcement-learning-discovered sinusoidal charge-injection modulation for flow stabilization and heat transfer enhancement in electro-thermo-convection"
+authors:
+  - family-names: "To be updated"
+    given-names: "To be updated"
+date-released: 2026-06-08
+version: "0.1.0"
+license: "MIT"
+repository-code: ""
+abstract: "Source code and numerical results for reinforcement-learning optimization of sinusoidal charge-injection modulation in electro-thermo-convection."
